@@ -2,91 +2,67 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Portfolio on Etao Tsai</title>
-    <link>https://realecto.github.io/etaotsai/portfolio/</link>
+    <link>http://localhost:1313/etaotsai/portfolio/</link>
     <description>Recent content in Portfolio on Etao Tsai</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>etao.business.au@gmail.com (Etao Tsai)</managingEditor>
     <webMaster>etao.business.au@gmail.com (Etao Tsai)</webMaster>
     <copyright>© Yi-Tao Tsai, 2025</copyright>
-    <atom:link href="https://realecto.github.io/etaotsai/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/etaotsai/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Personal Website</title>
-      <link>https://realecto.github.io/etaotsai/portfolio/personal_website/</link>
+      <link>http://localhost:1313/etaotsai/portfolio/personal_website/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>etao.business.au@gmail.com (Etao Tsai)</author>
-      <guid>https://realecto.github.io/etaotsai/portfolio/personal_website/</guid>
+      <guid>http://localhost:1313/etaotsai/portfolio/personal_website/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     <item>
       <title>Henosis Todo List App</title>
-      <link>https://realecto.github.io/etaotsai/portfolio/henosis_todo_list_app/</link>
+      <link>http://localhost:1313/etaotsai/portfolio/henosis_todo_list_app/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>etao.business.au@gmail.com (Etao Tsai)</author>
-      <guid>https://realecto.github.io/etaotsai/portfolio/henosis_todo_list_app/</guid>
+      <guid>http://localhost:1313/etaotsai/portfolio/henosis_todo_list_app/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     <item>
       <title>Algorithmic Optimisations and Pathfinding</title>
-      <link>https://realecto.github.io/etaotsai/portfolio/algorithmic_optimisations_and_pathfinding/</link>
+      <link>http://localhost:1313/etaotsai/portfolio/algorithmic_optimisations_and_pathfinding/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>etao.business.au@gmail.com (Etao Tsai)</author>
-      <guid>https://realecto.github.io/etaotsai/portfolio/algorithmic_optimisations_and_pathfinding/</guid>
+      <guid>http://localhost:1313/etaotsai/portfolio/algorithmic_optimisations_and_pathfinding/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     <item>
       <title>Image Manipulation Program via Http</title>
-      <link>https://realecto.github.io/etaotsai/portfolio/image_manipulation_program_via_http/</link>
+      <link>http://localhost:1313/etaotsai/portfolio/image_manipulation_program_via_http/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>etao.business.au@gmail.com (Etao Tsai)</author>
-      <guid>https://realecto.github.io/etaotsai/portfolio/image_manipulation_program_via_http/</guid>
-      <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-    </item>
-    <item>
-      <title>Conveyor Belt Simulation</title>
-      <link>https://realecto.github.io/etaotsai/portfolio/conveyor_belt_simulation/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>etao.business.au@gmail.com (Etao Tsai)</author>
-      <guid>https://realecto.github.io/etaotsai/portfolio/conveyor_belt_simulation/</guid>
+      <guid>http://localhost:1313/etaotsai/portfolio/image_manipulation_program_via_http/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     <item>
       <title>Intrusion Detection System</title>
-      <link>https://realecto.github.io/etaotsai/portfolio/intrusion_detection_system/</link>
+      <link>http://localhost:1313/etaotsai/portfolio/intrusion_detection_system/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>etao.business.au@gmail.com (Etao Tsai)</author>
-      <guid>https://realecto.github.io/etaotsai/portfolio/intrusion_detection_system/</guid>
-      <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-    </item>
-    <item>
-      <title>Unreal Engine Liminalspace Exploration Simulator</title>
-      <link>https://realecto.github.io/etaotsai/portfolio/unreal_engine_liminalspace_exploration_simulator/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>etao.business.au@gmail.com (Etao Tsai)</author>
-      <guid>https://realecto.github.io/etaotsai/portfolio/unreal_engine_liminalspace_exploration_simulator/</guid>
-      <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-    </item>
-    <item>
-      <title>Snakes and Ladders via Atmega328 and LED Matrix</title>
-      <link>https://realecto.github.io/etaotsai/portfolio/snakes_and_ladders_via_atmega328/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>etao.business.au@gmail.com (Etao Tsai)</author>
-      <guid>https://realecto.github.io/etaotsai/portfolio/snakes_and_ladders_via_atmega328/</guid>
+      <guid>http://localhost:1313/etaotsai/portfolio/intrusion_detection_system/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     <item>
       <title>Csv Proxy Extraction Automation</title>
-      <link>https://realecto.github.io/etaotsai/portfolio/csv_proxy_extraction_automation/</link>
+      <link>http://localhost:1313/etaotsai/portfolio/csv_proxy_extraction_automation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>etao.business.au@gmail.com (Etao Tsai)</author>
-      <guid>https://realecto.github.io/etaotsai/portfolio/csv_proxy_extraction_automation/</guid>
+      <guid>http://localhost:1313/etaotsai/portfolio/csv_proxy_extraction_automation/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     <item>
       <title>Home Lab Setup</title>
-      <link>https://realecto.github.io/etaotsai/portfolio/home_lab_setup/</link>
+      <link>http://localhost:1313/etaotsai/portfolio/home_lab_setup/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>etao.business.au@gmail.com (Etao Tsai)</author>
-      <guid>https://realecto.github.io/etaotsai/portfolio/home_lab_setup/</guid>
+      <guid>http://localhost:1313/etaotsai/portfolio/home_lab_setup/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
