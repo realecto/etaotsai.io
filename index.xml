@@ -143,5 +143,29 @@ Automation via a scripting language is something that I find myself doing regula
 and this is one of the most easily visualised examples.</p>
 ]]></content:encoded>
     </item>
+    <item>
+      <title>Encryption and Decryption Projects</title>
+      <link>https://realecto.github.io/etaotsai/portfolio/encryption_and_decryption_projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>etao.business.au@gmail.com (Etao Tsai)</author>
+      <guid>https://realecto.github.io/etaotsai/portfolio/encryption_and_decryption_projects/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;What&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;AES encryption and decryption via modes such as ECB, CBC, CFB, OFB and CTR.&lt;/li&gt;&#xA;&lt;li&gt;Diffie hellman key exchange&lt;/li&gt;&#xA;&lt;li&gt;RSA Encryption and decryption&lt;/li&gt;&#xA;&lt;li&gt;Packet contruction using encryption methods for ESP IPsec protocol&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;How&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Python&lt;/li&gt;&#xA;&lt;li&gt;pycroptodome&lt;/li&gt;&#xA;&lt;li&gt;cryptography&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Result&lt;/strong&gt;&lt;br&gt;&#xA;Achieved recreating the series of encrpytion decryption methods, DF key exchange and correct packet construction for ESP.&#xA;Learnt the ways encryption and decryption methods work and the usage of relevant python libraries.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p><strong>What</strong></p>
+<ul>
+<li>AES encryption and decryption via modes such as ECB, CBC, CFB, OFB and CTR.</li>
+<li>Diffie hellman key exchange</li>
+<li>RSA Encryption and decryption</li>
+<li>Packet contruction using encryption methods for ESP IPsec protocol</li>
+</ul>
+<p><strong>How</strong></p>
+<ul>
+<li>Python</li>
+<li>pycroptodome</li>
+<li>cryptography</li>
+</ul>
+<p><strong>Result</strong><br>
+Achieved recreating the series of encrpytion decryption methods, DF key exchange and correct packet construction for ESP.
+Learnt the ways encryption and decryption methods work and the usage of relevant python libraries.</p>
+]]></content:encoded>
+    </item>
   </channel>
 </rss>
